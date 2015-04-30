@@ -1,0 +1,1 @@
+# initiliaze zw for crypt
