@@ -1,9 +1,9 @@
 #! python
 
-import ZipFile
+import zipfile
 import os
 import sys
-import Exception
+import exception
 
 
 def main():
