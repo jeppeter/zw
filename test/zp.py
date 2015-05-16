@@ -3,7 +3,6 @@
 import zipfile
 import os
 import sys
-import exception
 
 
 def main():
